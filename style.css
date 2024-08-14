@@ -1,0 +1,17 @@
+body {
+    background-color: beige;
+}
+
+.texto-centrado {
+    text-align: center;
+}
+
+/* Selector combinado
+Aquí podemos combinar más de una opción para ir filtrando mis etiquetas*/
+
+#navegacion {
+display: inline;
+}
+#navegacion li {
+    display: inline;
+}
